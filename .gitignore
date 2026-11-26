@@ -1,0 +1,28 @@
+# Build output
+/bin/
+/dist/
+*.test
+*.out
+coverage.*
+
+# Pentest data must never live in the repo
+/pentest/
+/sessions/
+vars
+notes.md
+recordings/
+*.cast
+commands.jsonl
+
+# Secrets / local config
+.env
+.env.*
+.claude/
+CLAUDE.md
+
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
