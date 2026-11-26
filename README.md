@@ -5,14 +5,17 @@
   </picture>
 </p>
 
-**Arsenal** is a terminal tool to store, search and reuse the commands you need during a penetration test.
+**Arsenal** is a terminal inventory tool to store, search and reuse the commands you need during a penetration test.
 
-Between work and study I use a lot of commands, and I needed one place to keep them and find them again quickly, without leaving the terminal. I took inspiration from the [Arsenal](https://github.com/Orange-Cyberdefense/arsenal) project and built something easy and fast to use.
+Between work and study I use a lot of commands, and I needed one place to keep them and find them again quickly. I took inspiration from the [Arsenal](https://github.com/Orange-Cyberdefense/arsenal) project and built something easy and fast to use.
 
 On top of that it keeps your work organized per engagement so each session has its own variables, notes, command log and terminal recordings.
 
 > [!NOTE]
 > This project was written with heavy use of LLMs. If you prefer a version written without them, I recommend the original [Arsenal](https://github.com/Orange-Cyberdefense/arsenal) project.
+
+> [!NOTE]
+> I will maintain this tool for as long as I actively use it.
 
 ## Features
 
@@ -101,7 +104,3 @@ Every command has its own help with examples: `ars <command> --help`.
 ## License
 
 [GPL-3.0](LICENSE), the same as the original Arsenal.
-
-## Maintenance
-
-I will maintain this tool for as long as I actively use it.
