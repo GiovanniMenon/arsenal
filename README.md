@@ -4,6 +4,9 @@
     <img alt="Arsenal" src=".github/assets/banner-light.svg">
   </picture>
 </p>
+<p align="center">
+  <img alt="ars init, then a search by tag that fills the variables and puts the command in the prompt" src=".github/assets/demo.gif" width="800">
+</p>
 
 **Arsenal** is a terminal inventory tool to store, search and reuse the commands you need during a penetration test.
 
